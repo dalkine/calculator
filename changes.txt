@@ -1,0 +1,11 @@
+to add:
+-ans function
+-point funtion
+-gradient on css
+-acotar resultados.8no salgan de pantalla
+-
+-implementar calculo expresion
+-funciones x2,root,etc
+-()
+-constantes pi,e,
+-teclas de memoria
